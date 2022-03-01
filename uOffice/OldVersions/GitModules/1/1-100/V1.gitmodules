@@ -1,0 +1,5 @@
+# The uOffice software repository
+[submodule "seanpm2001/uOffice"]
+	path = uOffice/
+	url = https://github.com/seanpm2001/uOffice
+# File version: 1 (2022 Tuesday, March 1st at 3:17 pm)
