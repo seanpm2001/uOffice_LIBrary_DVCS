@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+# Dependencies for uOffice_LIBrary_DVCS
+html_version = str("5.0 or later")
+python_version = str("3.0 or later")
+gnu_make_version = str("1.0 or later")
+pySimpleGUI_version = str("NOT SET")
+diff_version = str("NOT SET")
+json_version = str("NOT SET")
+uoffice_version = str("NOT SET")
+# File version: 1 (2022, Tuesday, March 1st at 4:35 pm)
+# Line count (including blank lines and compiler line): 12
